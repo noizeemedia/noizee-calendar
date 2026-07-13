@@ -1075,7 +1075,7 @@ DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20260131
 DTEND;VALUE=DATE:20260201
 SUMMARY:Self Assessment 2024/25: file + balancing payment + POA1
-DESCRIPTION:Online Self Assessment return for 2024/25, the balancing payment, AND the first payment on account for the next year are all due today.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref (see your HMRC letter)
+DESCRIPTION:Online Self Assessment return for 2024/25, the balancing payment, AND the first payment on account for the next year are all due today.\nPay to: HMRC Shipley · sort 08-32-10 · acct 12001020 · ref 5039954551K
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1094,7 +1094,7 @@ DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:Self Assessment 2025/26: file + balancing payment + POA1
-DESCRIPTION:Online Self Assessment return for 2025/26, the balancing payment, AND the first payment on account for the next year are all due today.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref (see your HMRC letter)
+DESCRIPTION:Online Self Assessment return for 2025/26, the balancing payment, AND the first payment on account for the next year are all due today.\nPay to: HMRC Shipley · sort 08-32-10 · acct 12001020 · ref 5039954551K
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1113,7 +1113,7 @@ DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20280131
 DTEND;VALUE=DATE:20280201
 SUMMARY:Self Assessment 2026/27: file + balancing payment + POA1
-DESCRIPTION:Online Self Assessment return for 2026/27, the balancing payment, AND the first payment on account for the next year are all due today.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref (see your HMRC letter)
+DESCRIPTION:Online Self Assessment return for 2026/27, the balancing payment, AND the first payment on account for the next year are all due today.\nPay to: HMRC Shipley · sort 08-32-10 · acct 12001020 · ref 5039954551K
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1132,7 +1132,7 @@ DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20290131
 DTEND;VALUE=DATE:20290201
 SUMMARY:Self Assessment 2027/28: file + balancing payment + POA1
-DESCRIPTION:Online Self Assessment return for 2027/28, the balancing payment, AND the first payment on account for the next year are all due today.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref (see your HMRC letter)
+DESCRIPTION:Online Self Assessment return for 2027/28, the balancing payment, AND the first payment on account for the next year are all due today.\nPay to: HMRC Shipley · sort 08-32-10 · acct 12001020 · ref 5039954551K
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1151,7 +1151,7 @@ DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
 SUMMARY:Self Assessment 2024/25: second payment on account
-DESCRIPTION:Second payment on account for 2024/25 due today.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref (see your HMRC letter)
+DESCRIPTION:Second payment on account for 2024/25 due today.\nPay to: HMRC Shipley · sort 08-32-10 · acct 12001020 · ref 5039954551K
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1170,7 +1170,7 @@ DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20270731
 DTEND;VALUE=DATE:20270801
 SUMMARY:Self Assessment 2025/26: second payment on account
-DESCRIPTION:Second payment on account for 2025/26 due today.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref (see your HMRC letter)
+DESCRIPTION:Second payment on account for 2025/26 due today.\nPay to: HMRC Shipley · sort 08-32-10 · acct 12001020 · ref 5039954551K
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1189,7 +1189,7 @@ DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20280731
 DTEND;VALUE=DATE:20280801
 SUMMARY:Self Assessment 2026/27: second payment on account
-DESCRIPTION:Second payment on account for 2026/27 due today.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref (see your HMRC letter)
+DESCRIPTION:Second payment on account for 2026/27 due today.\nPay to: HMRC Shipley · sort 08-32-10 · acct 12001020 · ref 5039954551K
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1207,17 +1207,17 @@ UID:vat-20251231@noizee.media
 DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20260207
 DTEND;VALUE=DATE:20260208
-SUMMARY:VAT return & payment due — quarter to Dec 2025
-DESCRIPTION:MTD VAT return AND payment for the quarter ended 31 Dec 2025.\nFile via MTD software and pay by today. Figures: accounts.noizee.media (Tax & VAT).\nPay to: HMRC VAT · sort 08-32-00 · acct 11963155 · ref 329419975
+SUMMARY:VAT return due (payment on direct debit) — quarter to Dec 2025
+DESCRIPTION:FILE the MTD VAT return for the quarter ended 31 Dec 2025 today. Payment is on DIRECT DEBIT — HMRC collects it automatically ~3 working days later, no manual payment needed. Figures: accounts.noizee.media (Tax & VAT).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:VAT return & payment due — quarter to Dec 2025
+DESCRIPTION:VAT return due (payment on direct debit) — quarter to Dec 2025
 TRIGGER:-P7D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:VAT return & payment due — quarter to Dec 2025
+DESCRIPTION:VAT return due (payment on direct debit) — quarter to Dec 2025
 TRIGGER:-P1D
 END:VALARM
 END:VEVENT
@@ -1226,17 +1226,17 @@ UID:vat-20260331@noizee.media
 DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260508
-SUMMARY:VAT return & payment due — quarter to Mar 2026
-DESCRIPTION:MTD VAT return AND payment for the quarter ended 31 Mar 2026.\nFile via MTD software and pay by today. Figures: accounts.noizee.media (Tax & VAT).\nPay to: HMRC VAT · sort 08-32-00 · acct 11963155 · ref 329419975
+SUMMARY:VAT return due (payment on direct debit) — quarter to Mar 2026
+DESCRIPTION:FILE the MTD VAT return for the quarter ended 31 Mar 2026 today. Payment is on DIRECT DEBIT — HMRC collects it automatically ~3 working days later, no manual payment needed. Figures: accounts.noizee.media (Tax & VAT).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:VAT return & payment due — quarter to Mar 2026
+DESCRIPTION:VAT return due (payment on direct debit) — quarter to Mar 2026
 TRIGGER:-P7D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:VAT return & payment due — quarter to Mar 2026
+DESCRIPTION:VAT return due (payment on direct debit) — quarter to Mar 2026
 TRIGGER:-P1D
 END:VALARM
 END:VEVENT
@@ -1245,17 +1245,17 @@ UID:vat-20260630@noizee.media
 DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
-SUMMARY:VAT return & payment due — quarter to Jun 2026
-DESCRIPTION:MTD VAT return AND payment for the quarter ended 30 Jun 2026.\nFile via MTD software and pay by today. Figures: accounts.noizee.media (Tax & VAT).\nPay to: HMRC VAT · sort 08-32-00 · acct 11963155 · ref 329419975
+SUMMARY:VAT return due (payment on direct debit) — quarter to Jun 2026
+DESCRIPTION:FILE the MTD VAT return for the quarter ended 30 Jun 2026 today. Payment is on DIRECT DEBIT — HMRC collects it automatically ~3 working days later, no manual payment needed. Figures: accounts.noizee.media (Tax & VAT).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:VAT return & payment due — quarter to Jun 2026
+DESCRIPTION:VAT return due (payment on direct debit) — quarter to Jun 2026
 TRIGGER:-P7D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:VAT return & payment due — quarter to Jun 2026
+DESCRIPTION:VAT return due (payment on direct debit) — quarter to Jun 2026
 TRIGGER:-P1D
 END:VALARM
 END:VEVENT
@@ -1264,17 +1264,17 @@ UID:vat-20260930@noizee.media
 DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-SUMMARY:VAT return & payment due — quarter to Sep 2026
-DESCRIPTION:MTD VAT return AND payment for the quarter ended 30 Sep 2026.\nFile via MTD software and pay by today. Figures: accounts.noizee.media (Tax & VAT).\nPay to: HMRC VAT · sort 08-32-00 · acct 11963155 · ref 329419975
+SUMMARY:VAT return due (payment on direct debit) — quarter to Sep 2026
+DESCRIPTION:FILE the MTD VAT return for the quarter ended 30 Sep 2026 today. Payment is on DIRECT DEBIT — HMRC collects it automatically ~3 working days later, no manual payment needed. Figures: accounts.noizee.media (Tax & VAT).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:VAT return & payment due — quarter to Sep 2026
+DESCRIPTION:VAT return due (payment on direct debit) — quarter to Sep 2026
 TRIGGER:-P7D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:VAT return & payment due — quarter to Sep 2026
+DESCRIPTION:VAT return due (payment on direct debit) — quarter to Sep 2026
 TRIGGER:-P1D
 END:VALARM
 END:VEVENT
@@ -1283,17 +1283,17 @@ UID:vat-20261231@noizee.media
 DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
-SUMMARY:VAT return & payment due — quarter to Dec 2026
-DESCRIPTION:MTD VAT return AND payment for the quarter ended 31 Dec 2026.\nFile via MTD software and pay by today. Figures: accounts.noizee.media (Tax & VAT).\nPay to: HMRC VAT · sort 08-32-00 · acct 11963155 · ref 329419975
+SUMMARY:VAT return due (payment on direct debit) — quarter to Dec 2026
+DESCRIPTION:FILE the MTD VAT return for the quarter ended 31 Dec 2026 today. Payment is on DIRECT DEBIT — HMRC collects it automatically ~3 working days later, no manual payment needed. Figures: accounts.noizee.media (Tax & VAT).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:VAT return & payment due — quarter to Dec 2026
+DESCRIPTION:VAT return due (payment on direct debit) — quarter to Dec 2026
 TRIGGER:-P7D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:VAT return & payment due — quarter to Dec 2026
+DESCRIPTION:VAT return due (payment on direct debit) — quarter to Dec 2026
 TRIGGER:-P1D
 END:VALARM
 END:VEVENT
@@ -1302,17 +1302,17 @@ UID:vat-20270331@noizee.media
 DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20270507
 DTEND;VALUE=DATE:20270508
-SUMMARY:VAT return & payment due — quarter to Mar 2027
-DESCRIPTION:MTD VAT return AND payment for the quarter ended 31 Mar 2027.\nFile via MTD software and pay by today. Figures: accounts.noizee.media (Tax & VAT).\nPay to: HMRC VAT · sort 08-32-00 · acct 11963155 · ref 329419975
+SUMMARY:VAT return due (payment on direct debit) — quarter to Mar 2027
+DESCRIPTION:FILE the MTD VAT return for the quarter ended 31 Mar 2027 today. Payment is on DIRECT DEBIT — HMRC collects it automatically ~3 working days later, no manual payment needed. Figures: accounts.noizee.media (Tax & VAT).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:VAT return & payment due — quarter to Mar 2027
+DESCRIPTION:VAT return due (payment on direct debit) — quarter to Mar 2027
 TRIGGER:-P7D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:VAT return & payment due — quarter to Mar 2027
+DESCRIPTION:VAT return due (payment on direct debit) — quarter to Mar 2027
 TRIGGER:-P1D
 END:VALARM
 END:VEVENT
@@ -1321,17 +1321,17 @@ UID:vat-20270630@noizee.media
 DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20270807
 DTEND;VALUE=DATE:20270808
-SUMMARY:VAT return & payment due — quarter to Jun 2027
-DESCRIPTION:MTD VAT return AND payment for the quarter ended 30 Jun 2027.\nFile via MTD software and pay by today. Figures: accounts.noizee.media (Tax & VAT).\nPay to: HMRC VAT · sort 08-32-00 · acct 11963155 · ref 329419975
+SUMMARY:VAT return due (payment on direct debit) — quarter to Jun 2027
+DESCRIPTION:FILE the MTD VAT return for the quarter ended 30 Jun 2027 today. Payment is on DIRECT DEBIT — HMRC collects it automatically ~3 working days later, no manual payment needed. Figures: accounts.noizee.media (Tax & VAT).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:VAT return & payment due — quarter to Jun 2027
+DESCRIPTION:VAT return due (payment on direct debit) — quarter to Jun 2027
 TRIGGER:-P7D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:VAT return & payment due — quarter to Jun 2027
+DESCRIPTION:VAT return due (payment on direct debit) — quarter to Jun 2027
 TRIGGER:-P1D
 END:VALARM
 END:VEVENT
@@ -1340,17 +1340,17 @@ UID:vat-20270930@noizee.media
 DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20271107
 DTEND;VALUE=DATE:20271108
-SUMMARY:VAT return & payment due — quarter to Sep 2027
-DESCRIPTION:MTD VAT return AND payment for the quarter ended 30 Sep 2027.\nFile via MTD software and pay by today. Figures: accounts.noizee.media (Tax & VAT).\nPay to: HMRC VAT · sort 08-32-00 · acct 11963155 · ref 329419975
+SUMMARY:VAT return due (payment on direct debit) — quarter to Sep 2027
+DESCRIPTION:FILE the MTD VAT return for the quarter ended 30 Sep 2027 today. Payment is on DIRECT DEBIT — HMRC collects it automatically ~3 working days later, no manual payment needed. Figures: accounts.noizee.media (Tax & VAT).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:VAT return & payment due — quarter to Sep 2027
+DESCRIPTION:VAT return due (payment on direct debit) — quarter to Sep 2027
 TRIGGER:-P7D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:VAT return & payment due — quarter to Sep 2027
+DESCRIPTION:VAT return due (payment on direct debit) — quarter to Sep 2027
 TRIGGER:-P1D
 END:VALARM
 END:VEVENT
@@ -1359,17 +1359,17 @@ UID:vat-20271231@noizee.media
 DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20280207
 DTEND;VALUE=DATE:20280208
-SUMMARY:VAT return & payment due — quarter to Dec 2027
-DESCRIPTION:MTD VAT return AND payment for the quarter ended 31 Dec 2027.\nFile via MTD software and pay by today. Figures: accounts.noizee.media (Tax & VAT).\nPay to: HMRC VAT · sort 08-32-00 · acct 11963155 · ref 329419975
+SUMMARY:VAT return due (payment on direct debit) — quarter to Dec 2027
+DESCRIPTION:FILE the MTD VAT return for the quarter ended 31 Dec 2027 today. Payment is on DIRECT DEBIT — HMRC collects it automatically ~3 working days later, no manual payment needed. Figures: accounts.noizee.media (Tax & VAT).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:VAT return & payment due — quarter to Dec 2027
+DESCRIPTION:VAT return due (payment on direct debit) — quarter to Dec 2027
 TRIGGER:-P7D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:VAT return & payment due — quarter to Dec 2027
+DESCRIPTION:VAT return due (payment on direct debit) — quarter to Dec 2027
 TRIGGER:-P1D
 END:VALARM
 END:VEVENT
@@ -1378,17 +1378,17 @@ UID:vat-20280331@noizee.media
 DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20280507
 DTEND;VALUE=DATE:20280508
-SUMMARY:VAT return & payment due — quarter to Mar 2028
-DESCRIPTION:MTD VAT return AND payment for the quarter ended 31 Mar 2028.\nFile via MTD software and pay by today. Figures: accounts.noizee.media (Tax & VAT).\nPay to: HMRC VAT · sort 08-32-00 · acct 11963155 · ref 329419975
+SUMMARY:VAT return due (payment on direct debit) — quarter to Mar 2028
+DESCRIPTION:FILE the MTD VAT return for the quarter ended 31 Mar 2028 today. Payment is on DIRECT DEBIT — HMRC collects it automatically ~3 working days later, no manual payment needed. Figures: accounts.noizee.media (Tax & VAT).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:VAT return & payment due — quarter to Mar 2028
+DESCRIPTION:VAT return due (payment on direct debit) — quarter to Mar 2028
 TRIGGER:-P7D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:VAT return & payment due — quarter to Mar 2028
+DESCRIPTION:VAT return due (payment on direct debit) — quarter to Mar 2028
 TRIGGER:-P1D
 END:VALARM
 END:VEVENT
@@ -1397,17 +1397,17 @@ UID:vat-20280630@noizee.media
 DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20280807
 DTEND;VALUE=DATE:20280808
-SUMMARY:VAT return & payment due — quarter to Jun 2028
-DESCRIPTION:MTD VAT return AND payment for the quarter ended 30 Jun 2028.\nFile via MTD software and pay by today. Figures: accounts.noizee.media (Tax & VAT).\nPay to: HMRC VAT · sort 08-32-00 · acct 11963155 · ref 329419975
+SUMMARY:VAT return due (payment on direct debit) — quarter to Jun 2028
+DESCRIPTION:FILE the MTD VAT return for the quarter ended 30 Jun 2028 today. Payment is on DIRECT DEBIT — HMRC collects it automatically ~3 working days later, no manual payment needed. Figures: accounts.noizee.media (Tax & VAT).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:VAT return & payment due — quarter to Jun 2028
+DESCRIPTION:VAT return due (payment on direct debit) — quarter to Jun 2028
 TRIGGER:-P7D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:VAT return & payment due — quarter to Jun 2028
+DESCRIPTION:VAT return due (payment on direct debit) — quarter to Jun 2028
 TRIGGER:-P1D
 END:VALARM
 END:VEVENT
@@ -1416,17 +1416,17 @@ UID:vat-20280930@noizee.media
 DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20281107
 DTEND;VALUE=DATE:20281108
-SUMMARY:VAT return & payment due — quarter to Sep 2028
-DESCRIPTION:MTD VAT return AND payment for the quarter ended 30 Sep 2028.\nFile via MTD software and pay by today. Figures: accounts.noizee.media (Tax & VAT).\nPay to: HMRC VAT · sort 08-32-00 · acct 11963155 · ref 329419975
+SUMMARY:VAT return due (payment on direct debit) — quarter to Sep 2028
+DESCRIPTION:FILE the MTD VAT return for the quarter ended 30 Sep 2028 today. Payment is on DIRECT DEBIT — HMRC collects it automatically ~3 working days later, no manual payment needed. Figures: accounts.noizee.media (Tax & VAT).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:VAT return & payment due — quarter to Sep 2028
+DESCRIPTION:VAT return due (payment on direct debit) — quarter to Sep 2028
 TRIGGER:-P7D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:VAT return & payment due — quarter to Sep 2028
+DESCRIPTION:VAT return due (payment on direct debit) — quarter to Sep 2028
 TRIGGER:-P1D
 END:VALARM
 END:VEVENT
@@ -1435,17 +1435,17 @@ UID:vat-20281231@noizee.media
 DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20290207
 DTEND;VALUE=DATE:20290208
-SUMMARY:VAT return & payment due — quarter to Dec 2028
-DESCRIPTION:MTD VAT return AND payment for the quarter ended 31 Dec 2028.\nFile via MTD software and pay by today. Figures: accounts.noizee.media (Tax & VAT).\nPay to: HMRC VAT · sort 08-32-00 · acct 11963155 · ref 329419975
+SUMMARY:VAT return due (payment on direct debit) — quarter to Dec 2028
+DESCRIPTION:FILE the MTD VAT return for the quarter ended 31 Dec 2028 today. Payment is on DIRECT DEBIT — HMRC collects it automatically ~3 working days later, no manual payment needed. Figures: accounts.noizee.media (Tax & VAT).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:VAT return & payment due — quarter to Dec 2028
+DESCRIPTION:VAT return due (payment on direct debit) — quarter to Dec 2028
 TRIGGER:-P7D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:VAT return & payment due — quarter to Dec 2028
+DESCRIPTION:VAT return due (payment on direct debit) — quarter to Dec 2028
 TRIGGER:-P1D
 END:VALARM
 END:VEVENT
@@ -1454,17 +1454,17 @@ UID:vat-20290331@noizee.media
 DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20290507
 DTEND;VALUE=DATE:20290508
-SUMMARY:VAT return & payment due — quarter to Mar 2029
-DESCRIPTION:MTD VAT return AND payment for the quarter ended 31 Mar 2029.\nFile via MTD software and pay by today. Figures: accounts.noizee.media (Tax & VAT).\nPay to: HMRC VAT · sort 08-32-00 · acct 11963155 · ref 329419975
+SUMMARY:VAT return due (payment on direct debit) — quarter to Mar 2029
+DESCRIPTION:FILE the MTD VAT return for the quarter ended 31 Mar 2029 today. Payment is on DIRECT DEBIT — HMRC collects it automatically ~3 working days later, no manual payment needed. Figures: accounts.noizee.media (Tax & VAT).
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:VAT return & payment due — quarter to Mar 2029
+DESCRIPTION:VAT return due (payment on direct debit) — quarter to Mar 2029
 TRIGGER:-P7D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:VAT return & payment due — quarter to Mar 2029
+DESCRIPTION:VAT return due (payment on direct debit) — quarter to Mar 2029
 TRIGGER:-P1D
 END:VALARM
 END:VEVENT
