@@ -4,7 +4,7 @@ PRODID:-//Noizee Media//Financial Command//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Noizee Media — deadlines
-X-WR-CALDESC:VAT, Self Assessment and bookkeeping deadlines
+X-WR-CALDESC:PAYE, VAT, Self Assessment and bookkeeping deadlines
 BEGIN:VEVENT
 UID:amex-202602@noizee.media
 DTSTAMP:20260101T000000Z
@@ -804,12 +804,278 @@ TRIGGER:-P1D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:paye-202601@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260122
+DTEND;VALUE=DATE:20260123
+SUMMARY:PAYE & NIC to HMRC (staff) due
+DESCRIPTION:Quarterly PAYE + National Insurance for staff (Kalay & Zara), quarter to 05 Jan 2026.\nAmount: see accounts.noizee.media (HMRC payments) once the P30 is issued.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref 120PT021873152609
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PAYE & NIC to HMRC (staff) due
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PAYE & NIC to HMRC (staff) due
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:paye-202604@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
+SUMMARY:PAYE & NIC to HMRC (staff) due
+DESCRIPTION:Quarterly PAYE + National Insurance for staff (Kalay & Zara), quarter to 05 Apr 2026.\nAmount: see accounts.noizee.media (HMRC payments) once the P30 is issued.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref 120PT021873152612
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PAYE & NIC to HMRC (staff) due
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PAYE & NIC to HMRC (staff) due
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:paye-202607@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:PAYE & NIC to HMRC (staff) due
+DESCRIPTION:Quarterly PAYE + National Insurance for staff (Kalay & Zara), quarter to 05 Jul 2026.\nAmount: see accounts.noizee.media (HMRC payments) once the P30 is issued.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref 120PT021873152703
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PAYE & NIC to HMRC (staff) due
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PAYE & NIC to HMRC (staff) due
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:paye-202610@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:PAYE & NIC to HMRC (staff) due
+DESCRIPTION:Quarterly PAYE + National Insurance for staff (Kalay & Zara), quarter to 05 Oct 2026.\nAmount: see accounts.noizee.media (HMRC payments) once the P30 is issued.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref 120PT021873152706
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PAYE & NIC to HMRC (staff) due
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PAYE & NIC to HMRC (staff) due
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:paye-202701@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:PAYE & NIC to HMRC (staff) due
+DESCRIPTION:Quarterly PAYE + National Insurance for staff (Kalay & Zara), quarter to 05 Jan 2027.\nAmount: see accounts.noizee.media (HMRC payments) once the P30 is issued.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref 120PT021873152709
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PAYE & NIC to HMRC (staff) due
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PAYE & NIC to HMRC (staff) due
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:paye-202704@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+SUMMARY:PAYE & NIC to HMRC (staff) due
+DESCRIPTION:Quarterly PAYE + National Insurance for staff (Kalay & Zara), quarter to 05 Apr 2027.\nAmount: see accounts.noizee.media (HMRC payments) once the P30 is issued.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref 120PT021873152712
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PAYE & NIC to HMRC (staff) due
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PAYE & NIC to HMRC (staff) due
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:paye-202707@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270722
+DTEND;VALUE=DATE:20270723
+SUMMARY:PAYE & NIC to HMRC (staff) due
+DESCRIPTION:Quarterly PAYE + National Insurance for staff (Kalay & Zara), quarter to 05 Jul 2027.\nAmount: see accounts.noizee.media (HMRC payments) once the P30 is issued.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref 120PT021873152803
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PAYE & NIC to HMRC (staff) due
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PAYE & NIC to HMRC (staff) due
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:paye-202710@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20271022
+DTEND;VALUE=DATE:20271023
+SUMMARY:PAYE & NIC to HMRC (staff) due
+DESCRIPTION:Quarterly PAYE + National Insurance for staff (Kalay & Zara), quarter to 05 Oct 2027.\nAmount: see accounts.noizee.media (HMRC payments) once the P30 is issued.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref 120PT021873152806
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PAYE & NIC to HMRC (staff) due
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PAYE & NIC to HMRC (staff) due
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:paye-202801@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280122
+DTEND;VALUE=DATE:20280123
+SUMMARY:PAYE & NIC to HMRC (staff) due
+DESCRIPTION:Quarterly PAYE + National Insurance for staff (Kalay & Zara), quarter to 05 Jan 2028.\nAmount: see accounts.noizee.media (HMRC payments) once the P30 is issued.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref 120PT021873152809
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PAYE & NIC to HMRC (staff) due
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PAYE & NIC to HMRC (staff) due
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:paye-202804@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280422
+DTEND;VALUE=DATE:20280423
+SUMMARY:PAYE & NIC to HMRC (staff) due
+DESCRIPTION:Quarterly PAYE + National Insurance for staff (Kalay & Zara), quarter to 05 Apr 2028.\nAmount: see accounts.noizee.media (HMRC payments) once the P30 is issued.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref 120PT021873152812
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PAYE & NIC to HMRC (staff) due
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PAYE & NIC to HMRC (staff) due
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:paye-202807@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280722
+DTEND;VALUE=DATE:20280723
+SUMMARY:PAYE & NIC to HMRC (staff) due
+DESCRIPTION:Quarterly PAYE + National Insurance for staff (Kalay & Zara), quarter to 05 Jul 2028.\nAmount: see accounts.noizee.media (HMRC payments) once the P30 is issued.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref 120PT021873152903
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PAYE & NIC to HMRC (staff) due
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PAYE & NIC to HMRC (staff) due
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:paye-202810@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20281022
+DTEND;VALUE=DATE:20281023
+SUMMARY:PAYE & NIC to HMRC (staff) due
+DESCRIPTION:Quarterly PAYE + National Insurance for staff (Kalay & Zara), quarter to 05 Oct 2028.\nAmount: see accounts.noizee.media (HMRC payments) once the P30 is issued.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref 120PT021873152906
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PAYE & NIC to HMRC (staff) due
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PAYE & NIC to HMRC (staff) due
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:paye-202901@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290122
+DTEND;VALUE=DATE:20290123
+SUMMARY:PAYE & NIC to HMRC (staff) due
+DESCRIPTION:Quarterly PAYE + National Insurance for staff (Kalay & Zara), quarter to 05 Jan 2029.\nAmount: see accounts.noizee.media (HMRC payments) once the P30 is issued.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref 120PT021873152909
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PAYE & NIC to HMRC (staff) due
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PAYE & NIC to HMRC (staff) due
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:paye-202904@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290422
+DTEND;VALUE=DATE:20290423
+SUMMARY:PAYE & NIC to HMRC (staff) due
+DESCRIPTION:Quarterly PAYE + National Insurance for staff (Kalay & Zara), quarter to 05 Apr 2029.\nAmount: see accounts.noizee.media (HMRC payments) once the P30 is issued.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref 120PT021873152912
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PAYE & NIC to HMRC (staff) due
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PAYE & NIC to HMRC (staff) due
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:sa-jan-2025@noizee.media
 DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20260131
 DTEND;VALUE=DATE:20260201
 SUMMARY:Self Assessment 2024/25: file + balancing payment + POA1
-DESCRIPTION:Online Self Assessment return for 2024/25, the balancing payment, AND the first payment on account for the next year are all due today.
+DESCRIPTION:Online Self Assessment return for 2024/25, the balancing payment, AND the first payment on account for the next year are all due today.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref (see your HMRC letter)
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -828,7 +1094,7 @@ DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:Self Assessment 2025/26: file + balancing payment + POA1
-DESCRIPTION:Online Self Assessment return for 2025/26, the balancing payment, AND the first payment on account for the next year are all due today.
+DESCRIPTION:Online Self Assessment return for 2025/26, the balancing payment, AND the first payment on account for the next year are all due today.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref (see your HMRC letter)
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -847,7 +1113,7 @@ DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20280131
 DTEND;VALUE=DATE:20280201
 SUMMARY:Self Assessment 2026/27: file + balancing payment + POA1
-DESCRIPTION:Online Self Assessment return for 2026/27, the balancing payment, AND the first payment on account for the next year are all due today.
+DESCRIPTION:Online Self Assessment return for 2026/27, the balancing payment, AND the first payment on account for the next year are all due today.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref (see your HMRC letter)
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -866,7 +1132,7 @@ DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20290131
 DTEND;VALUE=DATE:20290201
 SUMMARY:Self Assessment 2027/28: file + balancing payment + POA1
-DESCRIPTION:Online Self Assessment return for 2027/28, the balancing payment, AND the first payment on account for the next year are all due today.
+DESCRIPTION:Online Self Assessment return for 2027/28, the balancing payment, AND the first payment on account for the next year are all due today.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref (see your HMRC letter)
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -885,7 +1151,7 @@ DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
 SUMMARY:Self Assessment 2024/25: second payment on account
-DESCRIPTION:Second payment on account for 2024/25 due today.
+DESCRIPTION:Second payment on account for 2024/25 due today.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref (see your HMRC letter)
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -904,7 +1170,7 @@ DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20270731
 DTEND;VALUE=DATE:20270801
 SUMMARY:Self Assessment 2025/26: second payment on account
-DESCRIPTION:Second payment on account for 2025/26 due today.
+DESCRIPTION:Second payment on account for 2025/26 due today.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref (see your HMRC letter)
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -923,7 +1189,7 @@ DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20280731
 DTEND;VALUE=DATE:20280801
 SUMMARY:Self Assessment 2026/27: second payment on account
-DESCRIPTION:Second payment on account for 2026/27 due today.
+DESCRIPTION:Second payment on account for 2026/27 due today.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref (see your HMRC letter)
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -942,7 +1208,7 @@ DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20260207
 DTEND;VALUE=DATE:20260208
 SUMMARY:VAT return & payment due — quarter to Dec 2025
-DESCRIPTION:MTD VAT return AND payment for the quarter ended 31 Dec 2025.\nFile via MTD software and pay by today. Figures: accounts.noizee.media (Tax & VAT).
+DESCRIPTION:MTD VAT return AND payment for the quarter ended 31 Dec 2025.\nFile via MTD software and pay by today. Figures: accounts.noizee.media (Tax & VAT).\nPay to: HMRC VAT · sort 08-32-00 · acct 11963155 · ref 329419975
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -961,7 +1227,7 @@ DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260508
 SUMMARY:VAT return & payment due — quarter to Mar 2026
-DESCRIPTION:MTD VAT return AND payment for the quarter ended 31 Mar 2026.\nFile via MTD software and pay by today. Figures: accounts.noizee.media (Tax & VAT).
+DESCRIPTION:MTD VAT return AND payment for the quarter ended 31 Mar 2026.\nFile via MTD software and pay by today. Figures: accounts.noizee.media (Tax & VAT).\nPay to: HMRC VAT · sort 08-32-00 · acct 11963155 · ref 329419975
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -980,7 +1246,7 @@ DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20260807
 DTEND;VALUE=DATE:20260808
 SUMMARY:VAT return & payment due — quarter to Jun 2026
-DESCRIPTION:MTD VAT return AND payment for the quarter ended 30 Jun 2026.\nFile via MTD software and pay by today. Figures: accounts.noizee.media (Tax & VAT).
+DESCRIPTION:MTD VAT return AND payment for the quarter ended 30 Jun 2026.\nFile via MTD software and pay by today. Figures: accounts.noizee.media (Tax & VAT).\nPay to: HMRC VAT · sort 08-32-00 · acct 11963155 · ref 329419975
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -999,7 +1265,7 @@ DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:VAT return & payment due — quarter to Sep 2026
-DESCRIPTION:MTD VAT return AND payment for the quarter ended 30 Sep 2026.\nFile via MTD software and pay by today. Figures: accounts.noizee.media (Tax & VAT).
+DESCRIPTION:MTD VAT return AND payment for the quarter ended 30 Sep 2026.\nFile via MTD software and pay by today. Figures: accounts.noizee.media (Tax & VAT).\nPay to: HMRC VAT · sort 08-32-00 · acct 11963155 · ref 329419975
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1018,7 +1284,7 @@ DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
 SUMMARY:VAT return & payment due — quarter to Dec 2026
-DESCRIPTION:MTD VAT return AND payment for the quarter ended 31 Dec 2026.\nFile via MTD software and pay by today. Figures: accounts.noizee.media (Tax & VAT).
+DESCRIPTION:MTD VAT return AND payment for the quarter ended 31 Dec 2026.\nFile via MTD software and pay by today. Figures: accounts.noizee.media (Tax & VAT).\nPay to: HMRC VAT · sort 08-32-00 · acct 11963155 · ref 329419975
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1037,7 +1303,7 @@ DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20270507
 DTEND;VALUE=DATE:20270508
 SUMMARY:VAT return & payment due — quarter to Mar 2027
-DESCRIPTION:MTD VAT return AND payment for the quarter ended 31 Mar 2027.\nFile via MTD software and pay by today. Figures: accounts.noizee.media (Tax & VAT).
+DESCRIPTION:MTD VAT return AND payment for the quarter ended 31 Mar 2027.\nFile via MTD software and pay by today. Figures: accounts.noizee.media (Tax & VAT).\nPay to: HMRC VAT · sort 08-32-00 · acct 11963155 · ref 329419975
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1056,7 +1322,7 @@ DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20270807
 DTEND;VALUE=DATE:20270808
 SUMMARY:VAT return & payment due — quarter to Jun 2027
-DESCRIPTION:MTD VAT return AND payment for the quarter ended 30 Jun 2027.\nFile via MTD software and pay by today. Figures: accounts.noizee.media (Tax & VAT).
+DESCRIPTION:MTD VAT return AND payment for the quarter ended 30 Jun 2027.\nFile via MTD software and pay by today. Figures: accounts.noizee.media (Tax & VAT).\nPay to: HMRC VAT · sort 08-32-00 · acct 11963155 · ref 329419975
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1075,7 +1341,7 @@ DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20271107
 DTEND;VALUE=DATE:20271108
 SUMMARY:VAT return & payment due — quarter to Sep 2027
-DESCRIPTION:MTD VAT return AND payment for the quarter ended 30 Sep 2027.\nFile via MTD software and pay by today. Figures: accounts.noizee.media (Tax & VAT).
+DESCRIPTION:MTD VAT return AND payment for the quarter ended 30 Sep 2027.\nFile via MTD software and pay by today. Figures: accounts.noizee.media (Tax & VAT).\nPay to: HMRC VAT · sort 08-32-00 · acct 11963155 · ref 329419975
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1094,7 +1360,7 @@ DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20280207
 DTEND;VALUE=DATE:20280208
 SUMMARY:VAT return & payment due — quarter to Dec 2027
-DESCRIPTION:MTD VAT return AND payment for the quarter ended 31 Dec 2027.\nFile via MTD software and pay by today. Figures: accounts.noizee.media (Tax & VAT).
+DESCRIPTION:MTD VAT return AND payment for the quarter ended 31 Dec 2027.\nFile via MTD software and pay by today. Figures: accounts.noizee.media (Tax & VAT).\nPay to: HMRC VAT · sort 08-32-00 · acct 11963155 · ref 329419975
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1113,7 +1379,7 @@ DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20280507
 DTEND;VALUE=DATE:20280508
 SUMMARY:VAT return & payment due — quarter to Mar 2028
-DESCRIPTION:MTD VAT return AND payment for the quarter ended 31 Mar 2028.\nFile via MTD software and pay by today. Figures: accounts.noizee.media (Tax & VAT).
+DESCRIPTION:MTD VAT return AND payment for the quarter ended 31 Mar 2028.\nFile via MTD software and pay by today. Figures: accounts.noizee.media (Tax & VAT).\nPay to: HMRC VAT · sort 08-32-00 · acct 11963155 · ref 329419975
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1132,7 +1398,7 @@ DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20280807
 DTEND;VALUE=DATE:20280808
 SUMMARY:VAT return & payment due — quarter to Jun 2028
-DESCRIPTION:MTD VAT return AND payment for the quarter ended 30 Jun 2028.\nFile via MTD software and pay by today. Figures: accounts.noizee.media (Tax & VAT).
+DESCRIPTION:MTD VAT return AND payment for the quarter ended 30 Jun 2028.\nFile via MTD software and pay by today. Figures: accounts.noizee.media (Tax & VAT).\nPay to: HMRC VAT · sort 08-32-00 · acct 11963155 · ref 329419975
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1151,7 +1417,7 @@ DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20281107
 DTEND;VALUE=DATE:20281108
 SUMMARY:VAT return & payment due — quarter to Sep 2028
-DESCRIPTION:MTD VAT return AND payment for the quarter ended 30 Sep 2028.\nFile via MTD software and pay by today. Figures: accounts.noizee.media (Tax & VAT).
+DESCRIPTION:MTD VAT return AND payment for the quarter ended 30 Sep 2028.\nFile via MTD software and pay by today. Figures: accounts.noizee.media (Tax & VAT).\nPay to: HMRC VAT · sort 08-32-00 · acct 11963155 · ref 329419975
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1170,7 +1436,7 @@ DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20290207
 DTEND;VALUE=DATE:20290208
 SUMMARY:VAT return & payment due — quarter to Dec 2028
-DESCRIPTION:MTD VAT return AND payment for the quarter ended 31 Dec 2028.\nFile via MTD software and pay by today. Figures: accounts.noizee.media (Tax & VAT).
+DESCRIPTION:MTD VAT return AND payment for the quarter ended 31 Dec 2028.\nFile via MTD software and pay by today. Figures: accounts.noizee.media (Tax & VAT).\nPay to: HMRC VAT · sort 08-32-00 · acct 11963155 · ref 329419975
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1189,7 +1455,7 @@ DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20290507
 DTEND;VALUE=DATE:20290508
 SUMMARY:VAT return & payment due — quarter to Mar 2029
-DESCRIPTION:MTD VAT return AND payment for the quarter ended 31 Mar 2029.\nFile via MTD software and pay by today. Figures: accounts.noizee.media (Tax & VAT).
+DESCRIPTION:MTD VAT return AND payment for the quarter ended 31 Mar 2029.\nFile via MTD software and pay by today. Figures: accounts.noizee.media (Tax & VAT).\nPay to: HMRC VAT · sort 08-32-00 · acct 11963155 · ref 329419975
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
