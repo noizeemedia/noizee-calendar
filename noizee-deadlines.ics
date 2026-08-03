@@ -1070,25 +1070,6 @@ TRIGGER:-P1D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:sa-jan-2025@noizee.media
-DTSTAMP:20260101T000000Z
-DTSTART;VALUE=DATE:20260131
-DTEND;VALUE=DATE:20260201
-SUMMARY:Self Assessment 2024/25: file + balancing payment + POA1
-DESCRIPTION:Online Self Assessment return for 2024/25, the balancing payment, AND the first payment on account for the next year are all due today.\nPay to: HMRC Shipley · sort 08-32-10 · acct 12001020 · ref 5039954551K
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Self Assessment 2024/25: file + balancing payment + POA1
-TRIGGER:-P7D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Self Assessment 2024/25: file + balancing payment + POA1
-TRIGGER:-P1D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:sa-jan-2026@noizee.media
 DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20270131
