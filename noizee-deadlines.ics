@@ -1468,4 +1468,23 @@ DESCRIPTION:VAT return due (payment on direct debit) — quarter to Mar 2029
 TRIGGER:-P1D
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:vat-20290630@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290807
+DTEND;VALUE=DATE:20290808
+SUMMARY:VAT return due (payment on direct debit) — quarter to Jun 2029
+DESCRIPTION:FILE the MTD VAT return for the quarter ended 30 Jun 2029 today. Payment is on DIRECT DEBIT — HMRC collects it automatically ~3 working days later, no manual payment needed. Figures: accounts.noizee.media (Tax & VAT).
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:VAT return due (payment on direct debit) — quarter to Jun 2029
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:VAT return due (payment on direct debit) — quarter to Jun 2029
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
 END:VCALENDAR
