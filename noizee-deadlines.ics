@@ -1222,25 +1222,6 @@ TRIGGER:-P1D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:vat-20251231@noizee.media
-DTSTAMP:20260101T000000Z
-DTSTART;VALUE=DATE:20260207
-DTEND;VALUE=DATE:20260208
-SUMMARY:VAT return due (payment on direct debit) — quarter to Dec 2025
-DESCRIPTION:FILE the MTD VAT return for the quarter ended 31 Dec 2025 today. Payment is on DIRECT DEBIT — HMRC collects it automatically ~3 working days later, no manual payment needed. Figures: accounts.noizee.media (Tax & VAT).
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:VAT return due (payment on direct debit) — quarter to Dec 2025
-TRIGGER:-P7D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:VAT return due (payment on direct debit) — quarter to Dec 2025
-TRIGGER:-P1D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:vat-20260331@noizee.media
 DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20260507
