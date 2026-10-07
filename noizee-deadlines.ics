@@ -804,6 +804,690 @@ TRIGGER:-P1D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:invoice-day-202611@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Invoice day: raise the monthly client invoices (due 1 Nov)
+DESCRIPTION:Raise this month's retainer and project invoices in QuickBooks, all due on the 1st. Amounts, PO numbers and wording are in the private checklist in the Noizee Drive: documents/finance/invoice-day.md.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Nov)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Nov)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:invoice-day-202612@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Invoice day: raise the monthly client invoices (due 1 Dec)
+DESCRIPTION:Raise this month's retainer and project invoices in QuickBooks, all due on the 1st. Amounts, PO numbers and wording are in the private checklist in the Noizee Drive: documents/finance/invoice-day.md.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Dec)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Dec)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:invoice-day-202701@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:Invoice day: raise the monthly client invoices (due 1 Jan)
+DESCRIPTION:Raise this month's retainer and project invoices in QuickBooks, all due on the 1st. Amounts, PO numbers and wording are in the private checklist in the Noizee Drive: documents/finance/invoice-day.md.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Jan)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Jan)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:invoice-day-202702@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270126
+SUMMARY:Invoice day: raise the monthly client invoices (due 1 Feb)
+DESCRIPTION:Raise this month's retainer and project invoices in QuickBooks, all due on the 1st. Amounts, PO numbers and wording are in the private checklist in the Noizee Drive: documents/finance/invoice-day.md.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Feb)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Feb)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:invoice-day-202703@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270223
+SUMMARY:Invoice day: raise the monthly client invoices (due 1 Mar)
+DESCRIPTION:Raise this month's retainer and project invoices in QuickBooks, all due on the 1st. Amounts, PO numbers and wording are in the private checklist in the Noizee Drive: documents/finance/invoice-day.md.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Mar)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Mar)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:invoice-day-202704@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+SUMMARY:Invoice day: raise the monthly client invoices (due 1 Apr)
+DESCRIPTION:Raise this month's retainer and project invoices in QuickBooks, all due on the 1st. Amounts, PO numbers and wording are in the private checklist in the Noizee Drive: documents/finance/invoice-day.md.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Apr)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Apr)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:invoice-day-202705@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:Invoice day: raise the monthly client invoices (due 1 May)
+DESCRIPTION:Raise this month's retainer and project invoices in QuickBooks, all due on the 1st. Amounts, PO numbers and wording are in the private checklist in the Noizee Drive: documents/finance/invoice-day.md.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 May)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 May)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:invoice-day-202706@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
+SUMMARY:Invoice day: raise the monthly client invoices (due 1 Jun)
+DESCRIPTION:Raise this month's retainer and project invoices in QuickBooks, all due on the 1st. Amounts, PO numbers and wording are in the private checklist in the Noizee Drive: documents/finance/invoice-day.md.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Jun)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Jun)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:invoice-day-202707@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270625
+SUMMARY:Invoice day: raise the monthly client invoices (due 1 Jul)
+DESCRIPTION:Raise this month's retainer and project invoices in QuickBooks, all due on the 1st. Amounts, PO numbers and wording are in the private checklist in the Noizee Drive: documents/finance/invoice-day.md.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Jul)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Jul)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:invoice-day-202708@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270725
+DTEND;VALUE=DATE:20270726
+SUMMARY:Invoice day: raise the monthly client invoices (due 1 Aug)
+DESCRIPTION:Raise this month's retainer and project invoices in QuickBooks, all due on the 1st. Amounts, PO numbers and wording are in the private checklist in the Noizee Drive: documents/finance/invoice-day.md.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Aug)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Aug)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:invoice-day-202709@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270825
+DTEND;VALUE=DATE:20270826
+SUMMARY:Invoice day: raise the monthly client invoices (due 1 Sep)
+DESCRIPTION:Raise this month's retainer and project invoices in QuickBooks, all due on the 1st. Amounts, PO numbers and wording are in the private checklist in the Noizee Drive: documents/finance/invoice-day.md.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Sep)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Sep)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:invoice-day-202710@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270924
+DTEND;VALUE=DATE:20270925
+SUMMARY:Invoice day: raise the monthly client invoices (due 1 Oct)
+DESCRIPTION:Raise this month's retainer and project invoices in QuickBooks, all due on the 1st. Amounts, PO numbers and wording are in the private checklist in the Noizee Drive: documents/finance/invoice-day.md.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Oct)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Oct)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:invoice-day-202711@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20271025
+DTEND;VALUE=DATE:20271026
+SUMMARY:Invoice day: raise the monthly client invoices (due 1 Nov)
+DESCRIPTION:Raise this month's retainer and project invoices in QuickBooks, all due on the 1st. Amounts, PO numbers and wording are in the private checklist in the Noizee Drive: documents/finance/invoice-day.md.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Nov)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Nov)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:invoice-day-202712@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20271124
+DTEND;VALUE=DATE:20271125
+SUMMARY:Invoice day: raise the monthly client invoices (due 1 Dec)
+DESCRIPTION:Raise this month's retainer and project invoices in QuickBooks, all due on the 1st. Amounts, PO numbers and wording are in the private checklist in the Noizee Drive: documents/finance/invoice-day.md.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Dec)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Dec)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:invoice-day-202801@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20271223
+DTEND;VALUE=DATE:20271224
+SUMMARY:Invoice day: raise the monthly client invoices (due 1 Jan)
+DESCRIPTION:Raise this month's retainer and project invoices in QuickBooks, all due on the 1st. Amounts, PO numbers and wording are in the private checklist in the Noizee Drive: documents/finance/invoice-day.md.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Jan)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Jan)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:invoice-day-202802@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280125
+DTEND;VALUE=DATE:20280126
+SUMMARY:Invoice day: raise the monthly client invoices (due 1 Feb)
+DESCRIPTION:Raise this month's retainer and project invoices in QuickBooks, all due on the 1st. Amounts, PO numbers and wording are in the private checklist in the Noizee Drive: documents/finance/invoice-day.md.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Feb)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Feb)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:invoice-day-202803@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280223
+DTEND;VALUE=DATE:20280224
+SUMMARY:Invoice day: raise the monthly client invoices (due 1 Mar)
+DESCRIPTION:Raise this month's retainer and project invoices in QuickBooks, all due on the 1st. Amounts, PO numbers and wording are in the private checklist in the Noizee Drive: documents/finance/invoice-day.md.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Mar)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Mar)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:invoice-day-202804@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280325
+DTEND;VALUE=DATE:20280326
+SUMMARY:Invoice day: raise the monthly client invoices (due 1 Apr)
+DESCRIPTION:Raise this month's retainer and project invoices in QuickBooks, all due on the 1st. Amounts, PO numbers and wording are in the private checklist in the Noizee Drive: documents/finance/invoice-day.md.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Apr)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Apr)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:invoice-day-202805@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280424
+DTEND;VALUE=DATE:20280425
+SUMMARY:Invoice day: raise the monthly client invoices (due 1 May)
+DESCRIPTION:Raise this month's retainer and project invoices in QuickBooks, all due on the 1st. Amounts, PO numbers and wording are in the private checklist in the Noizee Drive: documents/finance/invoice-day.md.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 May)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 May)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:invoice-day-202806@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280525
+DTEND;VALUE=DATE:20280526
+SUMMARY:Invoice day: raise the monthly client invoices (due 1 Jun)
+DESCRIPTION:Raise this month's retainer and project invoices in QuickBooks, all due on the 1st. Amounts, PO numbers and wording are in the private checklist in the Noizee Drive: documents/finance/invoice-day.md.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Jun)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Jun)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:invoice-day-202807@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280624
+DTEND;VALUE=DATE:20280625
+SUMMARY:Invoice day: raise the monthly client invoices (due 1 Jul)
+DESCRIPTION:Raise this month's retainer and project invoices in QuickBooks, all due on the 1st. Amounts, PO numbers and wording are in the private checklist in the Noizee Drive: documents/finance/invoice-day.md.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Jul)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Jul)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:invoice-day-202808@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280725
+DTEND;VALUE=DATE:20280726
+SUMMARY:Invoice day: raise the monthly client invoices (due 1 Aug)
+DESCRIPTION:Raise this month's retainer and project invoices in QuickBooks, all due on the 1st. Amounts, PO numbers and wording are in the private checklist in the Noizee Drive: documents/finance/invoice-day.md.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Aug)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Aug)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:invoice-day-202809@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280825
+DTEND;VALUE=DATE:20280826
+SUMMARY:Invoice day: raise the monthly client invoices (due 1 Sep)
+DESCRIPTION:Raise this month's retainer and project invoices in QuickBooks, all due on the 1st. Amounts, PO numbers and wording are in the private checklist in the Noizee Drive: documents/finance/invoice-day.md.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Sep)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Sep)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:invoice-day-202810@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280924
+DTEND;VALUE=DATE:20280925
+SUMMARY:Invoice day: raise the monthly client invoices (due 1 Oct)
+DESCRIPTION:Raise this month's retainer and project invoices in QuickBooks, all due on the 1st. Amounts, PO numbers and wording are in the private checklist in the Noizee Drive: documents/finance/invoice-day.md.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Oct)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Oct)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:invoice-day-202811@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20281025
+DTEND;VALUE=DATE:20281026
+SUMMARY:Invoice day: raise the monthly client invoices (due 1 Nov)
+DESCRIPTION:Raise this month's retainer and project invoices in QuickBooks, all due on the 1st. Amounts, PO numbers and wording are in the private checklist in the Noizee Drive: documents/finance/invoice-day.md.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Nov)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Nov)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:invoice-day-202812@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20281124
+DTEND;VALUE=DATE:20281125
+SUMMARY:Invoice day: raise the monthly client invoices (due 1 Dec)
+DESCRIPTION:Raise this month's retainer and project invoices in QuickBooks, all due on the 1st. Amounts, PO numbers and wording are in the private checklist in the Noizee Drive: documents/finance/invoice-day.md.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Dec)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Dec)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:invoice-day-202901@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20281223
+DTEND;VALUE=DATE:20281224
+SUMMARY:Invoice day: raise the monthly client invoices (due 1 Jan)
+DESCRIPTION:Raise this month's retainer and project invoices in QuickBooks, all due on the 1st. Amounts, PO numbers and wording are in the private checklist in the Noizee Drive: documents/finance/invoice-day.md.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Jan)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Jan)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:invoice-day-202902@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290125
+DTEND;VALUE=DATE:20290126
+SUMMARY:Invoice day: raise the monthly client invoices (due 1 Feb)
+DESCRIPTION:Raise this month's retainer and project invoices in QuickBooks, all due on the 1st. Amounts, PO numbers and wording are in the private checklist in the Noizee Drive: documents/finance/invoice-day.md.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Feb)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Feb)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:invoice-day-202903@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290222
+DTEND;VALUE=DATE:20290223
+SUMMARY:Invoice day: raise the monthly client invoices (due 1 Mar)
+DESCRIPTION:Raise this month's retainer and project invoices in QuickBooks, all due on the 1st. Amounts, PO numbers and wording are in the private checklist in the Noizee Drive: documents/finance/invoice-day.md.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Mar)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Mar)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:invoice-day-202904@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290325
+DTEND;VALUE=DATE:20290326
+SUMMARY:Invoice day: raise the monthly client invoices (due 1 Apr)
+DESCRIPTION:Raise this month's retainer and project invoices in QuickBooks, all due on the 1st. Amounts, PO numbers and wording are in the private checklist in the Noizee Drive: documents/finance/invoice-day.md.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Apr)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Apr)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:invoice-day-202905@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290424
+DTEND;VALUE=DATE:20290425
+SUMMARY:Invoice day: raise the monthly client invoices (due 1 May)
+DESCRIPTION:Raise this month's retainer and project invoices in QuickBooks, all due on the 1st. Amounts, PO numbers and wording are in the private checklist in the Noizee Drive: documents/finance/invoice-day.md.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 May)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 May)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:invoice-day-202906@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290525
+DTEND;VALUE=DATE:20290526
+SUMMARY:Invoice day: raise the monthly client invoices (due 1 Jun)
+DESCRIPTION:Raise this month's retainer and project invoices in QuickBooks, all due on the 1st. Amounts, PO numbers and wording are in the private checklist in the Noizee Drive: documents/finance/invoice-day.md.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Jun)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Jun)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:invoice-day-202907@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290624
+DTEND;VALUE=DATE:20290625
+SUMMARY:Invoice day: raise the monthly client invoices (due 1 Jul)
+DESCRIPTION:Raise this month's retainer and project invoices in QuickBooks, all due on the 1st. Amounts, PO numbers and wording are in the private checklist in the Noizee Drive: documents/finance/invoice-day.md.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Jul)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Jul)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:invoice-day-202908@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290725
+DTEND;VALUE=DATE:20290726
+SUMMARY:Invoice day: raise the monthly client invoices (due 1 Aug)
+DESCRIPTION:Raise this month's retainer and project invoices in QuickBooks, all due on the 1st. Amounts, PO numbers and wording are in the private checklist in the Noizee Drive: documents/finance/invoice-day.md.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Aug)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Aug)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:invoice-day-202909@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290825
+DTEND;VALUE=DATE:20290826
+SUMMARY:Invoice day: raise the monthly client invoices (due 1 Sep)
+DESCRIPTION:Raise this month's retainer and project invoices in QuickBooks, all due on the 1st. Amounts, PO numbers and wording are in the private checklist in the Noizee Drive: documents/finance/invoice-day.md.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Sep)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Sep)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:invoice-day-202910@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290924
+DTEND;VALUE=DATE:20290925
+SUMMARY:Invoice day: raise the monthly client invoices (due 1 Oct)
+DESCRIPTION:Raise this month's retainer and project invoices in QuickBooks, all due on the 1st. Amounts, PO numbers and wording are in the private checklist in the Noizee Drive: documents/finance/invoice-day.md.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Oct)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Oct)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:paye-202604@noizee.media
 DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20260422
