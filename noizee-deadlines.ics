@@ -6,25 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Noizee Media — deadlines
 X-WR-CALDESC:PAYE, VAT, Self Assessment and bookkeeping deadlines
 BEGIN:VEVENT
-UID:amex-202604@noizee.media
-DTSTAMP:20260101T000000Z
-DTSTART;VALUE=DATE:20260408
-DTEND;VALUE=DATE:20260409
-SUMMARY:Save Amex statement PDF to Desktop
-DESCRIPTION:Export this month's Amex statement (PDF) and save it so the bookkeeping stays up to date.
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Save Amex statement PDF to Desktop
-TRIGGER:-P7D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Save Amex statement PDF to Desktop
-TRIGGER:-P1D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:amex-202605@noizee.media
 DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20260508
@@ -789,6 +770,25 @@ UID:amex-202909@noizee.media
 DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20290908
 DTEND;VALUE=DATE:20290909
+SUMMARY:Save Amex statement PDF to Desktop
+DESCRIPTION:Export this month's Amex statement (PDF) and save it so the bookkeeping stays up to date.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Save Amex statement PDF to Desktop
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Save Amex statement PDF to Desktop
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:amex-202910@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20291008
+DTEND;VALUE=DATE:20291009
 SUMMARY:Save Amex statement PDF to Desktop
 DESCRIPTION:Export this month's Amex statement (PDF) and save it so the bookkeeping stays up to date.
 TRANSP:TRANSPARENT
