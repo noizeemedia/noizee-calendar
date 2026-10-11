@@ -1527,7 +1527,7 @@ DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20260422
 DTEND;VALUE=DATE:20260423
 SUMMARY:PAYE & NIC to HMRC (staff) due
-DESCRIPTION:Quarterly PAYE + National Insurance for staff (Kalay & Zara), quarter to 05 Apr 2026.\nAmount: see accounts.noizee.media (HMRC payments) once the P30 is issued.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref 120PT021873152612
+DESCRIPTION:Quarterly PAYE + National Insurance for staff (Kalay & Zara), quarter to 05 Apr 2026.\nAmount: see accounts.noizee.media (HMRC payments) once the P30 is issued.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref: see accounts.noizee.media (sign-in)
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1546,7 +1546,7 @@ DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20260722
 DTEND;VALUE=DATE:20260723
 SUMMARY:PAYE & NIC to HMRC (staff) due
-DESCRIPTION:Quarterly PAYE + National Insurance for staff (Kalay & Zara), quarter to 05 Jul 2026.\nAmount: see accounts.noizee.media (HMRC payments) once the P30 is issued.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref 120PT021873152703
+DESCRIPTION:Quarterly PAYE + National Insurance for staff (Kalay & Zara), quarter to 05 Jul 2026.\nAmount: see accounts.noizee.media (HMRC payments) once the P30 is issued.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref: see accounts.noizee.media (sign-in)
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1565,7 +1565,7 @@ DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:PAYE & NIC to HMRC (staff) due
-DESCRIPTION:Quarterly PAYE + National Insurance for staff (Kalay & Zara), quarter to 05 Oct 2026.\nAmount: see accounts.noizee.media (HMRC payments) once the P30 is issued.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref 120PT021873152706
+DESCRIPTION:Quarterly PAYE + National Insurance for staff (Kalay & Zara), quarter to 05 Oct 2026.\nAmount: see accounts.noizee.media (HMRC payments) once the P30 is issued.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref: see accounts.noizee.media (sign-in)
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1584,7 +1584,7 @@ DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
 SUMMARY:PAYE & NIC to HMRC (staff) due
-DESCRIPTION:Quarterly PAYE + National Insurance for staff (Kalay & Zara), quarter to 05 Jan 2027.\nAmount: see accounts.noizee.media (HMRC payments) once the P30 is issued.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref 120PT021873152709
+DESCRIPTION:Quarterly PAYE + National Insurance for staff (Kalay & Zara), quarter to 05 Jan 2027.\nAmount: see accounts.noizee.media (HMRC payments) once the P30 is issued.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref: see accounts.noizee.media (sign-in)
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1603,7 +1603,7 @@ DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20270422
 DTEND;VALUE=DATE:20270423
 SUMMARY:PAYE & NIC to HMRC (staff) due
-DESCRIPTION:Quarterly PAYE + National Insurance for staff (Kalay & Zara), quarter to 05 Apr 2027.\nAmount: see accounts.noizee.media (HMRC payments) once the P30 is issued.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref 120PT021873152712
+DESCRIPTION:Quarterly PAYE + National Insurance for staff (Kalay & Zara), quarter to 05 Apr 2027.\nAmount: see accounts.noizee.media (HMRC payments) once the P30 is issued.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref: see accounts.noizee.media (sign-in)
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1622,7 +1622,7 @@ DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20270722
 DTEND;VALUE=DATE:20270723
 SUMMARY:PAYE & NIC to HMRC (staff) due
-DESCRIPTION:Quarterly PAYE + National Insurance for staff (Kalay & Zara), quarter to 05 Jul 2027.\nAmount: see accounts.noizee.media (HMRC payments) once the P30 is issued.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref 120PT021873152803
+DESCRIPTION:Quarterly PAYE + National Insurance for staff (Kalay & Zara), quarter to 05 Jul 2027.\nAmount: see accounts.noizee.media (HMRC payments) once the P30 is issued.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref: see accounts.noizee.media (sign-in)
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1641,7 +1641,7 @@ DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20271022
 DTEND;VALUE=DATE:20271023
 SUMMARY:PAYE & NIC to HMRC (staff) due
-DESCRIPTION:Quarterly PAYE + National Insurance for staff (Kalay & Zara), quarter to 05 Oct 2027.\nAmount: see accounts.noizee.media (HMRC payments) once the P30 is issued.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref 120PT021873152806
+DESCRIPTION:Quarterly PAYE + National Insurance for staff (Kalay & Zara), quarter to 05 Oct 2027.\nAmount: see accounts.noizee.media (HMRC payments) once the P30 is issued.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref: see accounts.noizee.media (sign-in)
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1660,7 +1660,7 @@ DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20280122
 DTEND;VALUE=DATE:20280123
 SUMMARY:PAYE & NIC to HMRC (staff) due
-DESCRIPTION:Quarterly PAYE + National Insurance for staff (Kalay & Zara), quarter to 05 Jan 2028.\nAmount: see accounts.noizee.media (HMRC payments) once the P30 is issued.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref 120PT021873152809
+DESCRIPTION:Quarterly PAYE + National Insurance for staff (Kalay & Zara), quarter to 05 Jan 2028.\nAmount: see accounts.noizee.media (HMRC payments) once the P30 is issued.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref: see accounts.noizee.media (sign-in)
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1679,7 +1679,7 @@ DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20280422
 DTEND;VALUE=DATE:20280423
 SUMMARY:PAYE & NIC to HMRC (staff) due
-DESCRIPTION:Quarterly PAYE + National Insurance for staff (Kalay & Zara), quarter to 05 Apr 2028.\nAmount: see accounts.noizee.media (HMRC payments) once the P30 is issued.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref 120PT021873152812
+DESCRIPTION:Quarterly PAYE + National Insurance for staff (Kalay & Zara), quarter to 05 Apr 2028.\nAmount: see accounts.noizee.media (HMRC payments) once the P30 is issued.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref: see accounts.noizee.media (sign-in)
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1698,7 +1698,7 @@ DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20280722
 DTEND;VALUE=DATE:20280723
 SUMMARY:PAYE & NIC to HMRC (staff) due
-DESCRIPTION:Quarterly PAYE + National Insurance for staff (Kalay & Zara), quarter to 05 Jul 2028.\nAmount: see accounts.noizee.media (HMRC payments) once the P30 is issued.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref 120PT021873152903
+DESCRIPTION:Quarterly PAYE + National Insurance for staff (Kalay & Zara), quarter to 05 Jul 2028.\nAmount: see accounts.noizee.media (HMRC payments) once the P30 is issued.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref: see accounts.noizee.media (sign-in)
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1717,7 +1717,7 @@ DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20281022
 DTEND;VALUE=DATE:20281023
 SUMMARY:PAYE & NIC to HMRC (staff) due
-DESCRIPTION:Quarterly PAYE + National Insurance for staff (Kalay & Zara), quarter to 05 Oct 2028.\nAmount: see accounts.noizee.media (HMRC payments) once the P30 is issued.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref 120PT021873152906
+DESCRIPTION:Quarterly PAYE + National Insurance for staff (Kalay & Zara), quarter to 05 Oct 2028.\nAmount: see accounts.noizee.media (HMRC payments) once the P30 is issued.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref: see accounts.noizee.media (sign-in)
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1736,7 +1736,7 @@ DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20290122
 DTEND;VALUE=DATE:20290123
 SUMMARY:PAYE & NIC to HMRC (staff) due
-DESCRIPTION:Quarterly PAYE + National Insurance for staff (Kalay & Zara), quarter to 05 Jan 2029.\nAmount: see accounts.noizee.media (HMRC payments) once the P30 is issued.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref 120PT021873152909
+DESCRIPTION:Quarterly PAYE + National Insurance for staff (Kalay & Zara), quarter to 05 Jan 2029.\nAmount: see accounts.noizee.media (HMRC payments) once the P30 is issued.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref: see accounts.noizee.media (sign-in)
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1755,7 +1755,7 @@ DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20290422
 DTEND;VALUE=DATE:20290423
 SUMMARY:PAYE & NIC to HMRC (staff) due
-DESCRIPTION:Quarterly PAYE + National Insurance for staff (Kalay & Zara), quarter to 05 Apr 2029.\nAmount: see accounts.noizee.media (HMRC payments) once the P30 is issued.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref 120PT021873152912
+DESCRIPTION:Quarterly PAYE + National Insurance for staff (Kalay & Zara), quarter to 05 Apr 2029.\nAmount: see accounts.noizee.media (HMRC payments) once the P30 is issued.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref: see accounts.noizee.media (sign-in)
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1774,7 +1774,7 @@ DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20290722
 DTEND;VALUE=DATE:20290723
 SUMMARY:PAYE & NIC to HMRC (staff) due
-DESCRIPTION:Quarterly PAYE + National Insurance for staff (Kalay & Zara), quarter to 05 Jul 2029.\nAmount: see accounts.noizee.media (HMRC payments) once the P30 is issued.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref 120PT021873153003
+DESCRIPTION:Quarterly PAYE + National Insurance for staff (Kalay & Zara), quarter to 05 Jul 2029.\nAmount: see accounts.noizee.media (HMRC payments) once the P30 is issued.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref: see accounts.noizee.media (sign-in)
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1788,7 +1788,7 @@ TRIGGER:-P1D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:reg-20260812-VAT@noizee.media
+UID:reg-20260812-4885a17383@noizee.media
 DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
@@ -1807,7 +1807,7 @@ TRIGGER:-P1D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:reg-20261015-VAT@noizee.media
+UID:reg-20261015-4885a17383@noizee.media
 DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
@@ -1826,7 +1826,7 @@ TRIGGER:-P1D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:reg-20261016-MTD@noizee.media
+UID:reg-20261016-9b048712ba@noizee.media
 DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
@@ -1845,7 +1845,7 @@ TRIGGER:-P1D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:reg-20261019-VAT@noizee.media
+UID:reg-20261019-4885a17383@noizee.media
 DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
@@ -1864,7 +1864,7 @@ TRIGGER:-P1D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:reg-20261027-Briarwood@noizee.media
+UID:reg-20261027-d2afe2b7c4@noizee.media
 DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
@@ -1883,7 +1883,7 @@ TRIGGER:-P1D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:reg-20261031-Taxpottopup@noizee.media
+UID:reg-20261031-6ab7450312@noizee.media
 DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
@@ -1902,7 +1902,7 @@ TRIGGER:-P1D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:reg-20261130-Taxpottopup@noizee.media
+UID:reg-20261130-6ab7450312@noizee.media
 DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
@@ -1921,7 +1921,7 @@ TRIGGER:-P1D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:reg-20261231-Taxpottopup@noizee.media
+UID:reg-20261231-6ab7450312@noizee.media
 DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
@@ -1945,7 +1945,7 @@ DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:Self Assessment 2025/26: file + balancing payment + POA1
-DESCRIPTION:Online Self Assessment return for 2025/26, the balancing payment, AND the first payment on account for the next year are all due today.\nPay to: HMRC Shipley · sort 08-32-10 · acct 12001020 · ref 5039954551K
+DESCRIPTION:Online Self Assessment return for 2025/26, the balancing payment, AND the first payment on account for the next year are all due today.\nPay to: HMRC Shipley · sort 08-32-10 · acct 12001020 · ref: see accounts.noizee.media (sign-in)
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1964,7 +1964,7 @@ DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20280131
 DTEND;VALUE=DATE:20280201
 SUMMARY:Self Assessment 2026/27: file + balancing payment + POA1
-DESCRIPTION:Online Self Assessment return for 2026/27, the balancing payment, AND the first payment on account for the next year are all due today.\nPay to: HMRC Shipley · sort 08-32-10 · acct 12001020 · ref 5039954551K
+DESCRIPTION:Online Self Assessment return for 2026/27, the balancing payment, AND the first payment on account for the next year are all due today.\nPay to: HMRC Shipley · sort 08-32-10 · acct 12001020 · ref: see accounts.noizee.media (sign-in)
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -1983,7 +1983,7 @@ DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20290131
 DTEND;VALUE=DATE:20290201
 SUMMARY:Self Assessment 2027/28: file + balancing payment + POA1
-DESCRIPTION:Online Self Assessment return for 2027/28, the balancing payment, AND the first payment on account for the next year are all due today.\nPay to: HMRC Shipley · sort 08-32-10 · acct 12001020 · ref 5039954551K
+DESCRIPTION:Online Self Assessment return for 2027/28, the balancing payment, AND the first payment on account for the next year are all due today.\nPay to: HMRC Shipley · sort 08-32-10 · acct 12001020 · ref: see accounts.noizee.media (sign-in)
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2002,7 +2002,7 @@ DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
 SUMMARY:Self Assessment 2024/25: second payment on account
-DESCRIPTION:Second payment on account for 2024/25 due today.\nPay to: HMRC Shipley · sort 08-32-10 · acct 12001020 · ref 5039954551K
+DESCRIPTION:Second payment on account for 2024/25 due today.\nPay to: HMRC Shipley · sort 08-32-10 · acct 12001020 · ref: see accounts.noizee.media (sign-in)
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2021,7 +2021,7 @@ DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20270731
 DTEND;VALUE=DATE:20270801
 SUMMARY:Self Assessment 2025/26: second payment on account
-DESCRIPTION:Second payment on account for 2025/26 due today.\nPay to: HMRC Shipley · sort 08-32-10 · acct 12001020 · ref 5039954551K
+DESCRIPTION:Second payment on account for 2025/26 due today.\nPay to: HMRC Shipley · sort 08-32-10 · acct 12001020 · ref: see accounts.noizee.media (sign-in)
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2040,7 +2040,7 @@ DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20280731
 DTEND;VALUE=DATE:20280801
 SUMMARY:Self Assessment 2026/27: second payment on account
-DESCRIPTION:Second payment on account for 2026/27 due today.\nPay to: HMRC Shipley · sort 08-32-10 · acct 12001020 · ref 5039954551K
+DESCRIPTION:Second payment on account for 2026/27 due today.\nPay to: HMRC Shipley · sort 08-32-10 · acct 12001020 · ref: see accounts.noizee.media (sign-in)
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -2059,7 +2059,7 @@ DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20290731
 DTEND;VALUE=DATE:20290801
 SUMMARY:Self Assessment 2027/28: second payment on account
-DESCRIPTION:Second payment on account for 2027/28 due today.\nPay to: HMRC Shipley · sort 08-32-10 · acct 12001020 · ref 5039954551K
+DESCRIPTION:Second payment on account for 2027/28 due today.\nPay to: HMRC Shipley · sort 08-32-10 · acct 12001020 · ref: see accounts.noizee.media (sign-in)
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
