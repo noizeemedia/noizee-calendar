@@ -1522,25 +1522,6 @@ TRIGGER:PT9H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:paye-202604@noizee.media
-DTSTAMP:20260101T000000Z
-DTSTART;VALUE=DATE:20260422
-DTEND;VALUE=DATE:20260423
-SUMMARY:PAYE & NIC to HMRC (staff) due
-DESCRIPTION:Quarterly PAYE + National Insurance for staff (Kalay & Zara), quarter to 05 Apr 2026.\nAmount: see accounts.noizee.media (HMRC payments) once the P30 is issued.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref: see accounts.noizee.media (sign-in)
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PAYE & NIC to HMRC (staff) due
-TRIGGER:-P7D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:PAYE & NIC to HMRC (staff) due
-TRIGGER:-P1D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:paye-202607@noizee.media
 DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20260722
@@ -1775,6 +1756,25 @@ DTSTART;VALUE=DATE:20290722
 DTEND;VALUE=DATE:20290723
 SUMMARY:PAYE & NIC to HMRC (staff) due
 DESCRIPTION:Quarterly PAYE + National Insurance for staff (Kalay & Zara), quarter to 05 Jul 2029.\nAmount: see accounts.noizee.media (HMRC payments) once the P30 is issued.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref: see accounts.noizee.media (sign-in)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PAYE & NIC to HMRC (staff) due
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PAYE & NIC to HMRC (staff) due
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:paye-202910@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20291022
+DTEND;VALUE=DATE:20291023
+SUMMARY:PAYE & NIC to HMRC (staff) due
+DESCRIPTION:Quarterly PAYE + National Insurance for staff (Kalay & Zara), quarter to 05 Oct 2029.\nAmount: see accounts.noizee.media (HMRC payments) once the P30 is issued.\nPay to: HMRC Cumbernauld · sort 08-32-10 · acct 12001039 · ref: see accounts.noizee.media (sign-in)
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 ACTION:DISPLAY
