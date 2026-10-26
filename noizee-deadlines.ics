@@ -1522,6 +1522,25 @@ TRIGGER:PT9H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:invoice-day-20291101@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20291025
+DTEND;VALUE=DATE:20291026
+SUMMARY:Invoice day: raise the monthly client invoices (due 1 Nov)
+DESCRIPTION:Raise this month's retainer and project invoices in QuickBooks, as scheduled. Amounts, PO numbers and wording are in the private checklist in the Noizee Drive: documents/finance/invoice-day.md.
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Nov)
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Invoice day: raise the monthly client invoices (due 1 Nov)
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:paye-202607@noizee.media
 DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20260722
