@@ -6,25 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Noizee Media — deadlines
 X-WR-CALDESC:PAYE, VAT, Self Assessment and bookkeeping deadlines
 BEGIN:VEVENT
-UID:amex-202605@noizee.media
-DTSTAMP:20260101T000000Z
-DTSTART;VALUE=DATE:20260508
-DTEND;VALUE=DATE:20260509
-SUMMARY:Save Amex statement PDF to Desktop
-DESCRIPTION:Export this month's Amex statement (PDF) and save it so the bookkeeping stays up to date.
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Save Amex statement PDF to Desktop
-TRIGGER:-P7D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Save Amex statement PDF to Desktop
-TRIGGER:-P1D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:amex-202606@noizee.media
 DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20260608
@@ -2354,6 +2335,25 @@ END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:VAT return due (payment on direct debit) — quarter to Jun 2029
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:vat-20290930@noizee.media
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20291107
+DTEND;VALUE=DATE:20291108
+SUMMARY:VAT return due (payment on direct debit) — quarter to Sep 2029
+DESCRIPTION:FILE the MTD VAT return for the quarter ended 30 Sep 2029 today. Payment is on DIRECT DEBIT — HMRC collects it automatically ~3 working days later, no manual payment needed. Figures: accounts.noizee.media (Tax & VAT).
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:VAT return due (payment on direct debit) — quarter to Sep 2029
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:VAT return due (payment on direct debit) — quarter to Sep 2029
 TRIGGER:-P1D
 END:VALARM
 END:VEVENT
